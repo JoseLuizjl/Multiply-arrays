@@ -1,0 +1,14 @@
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\bin\Debug\net8.0\multiply-arrays.exe
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\bin\Debug\net8.0\multiply-arrays.deps.json
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\bin\Debug\net8.0\multiply-arrays.runtimeconfig.json
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\bin\Debug\net8.0\multiply-arrays.dll
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\bin\Debug\net8.0\multiply-arrays.pdb
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\obj\Debug\net8.0\multiply-arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\obj\Debug\net8.0\multiply-arrays.AssemblyInfoInputs.cache
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\obj\Debug\net8.0\multiply-arrays.AssemblyInfo.cs
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\obj\Debug\net8.0\multiply-arrays.csproj.CoreCompileInputs.cache
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\obj\Debug\net8.0\multiply-arrays.dll
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\obj\Debug\net8.0\refint\multiply-arrays.dll
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\obj\Debug\net8.0\multiply-arrays.pdb
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\obj\Debug\net8.0\multiply-arrays.genruntimeconfig.cache
+C:\Users\jluiz\Desktop\Nova pasta (2)\C#\projeto3\multiply-arrays\obj\Debug\net8.0\ref\multiply-arrays.dll
